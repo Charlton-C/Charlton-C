@@ -8,9 +8,13 @@ I am a dedicated Software Developer with a specialty in Full Stack Web Developme
 
 ## 🛠 Skills
 HTML, CSS, Javascript, PHP
+
 Django, TypeScript
+
 Flutter, Android
+
 C++
+
 Git, GitHub
 
 
